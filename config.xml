@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>Flappy Buzz</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+        Faites voler Buzz faire l'infini et l'au-delà, mais attention : des tuyaux verts se mettront sur votre chemin, évitez-les où vous finirez dans les sombres goulags de l'Empereur Zurg !
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
-        [Your Username]
+    <author href="http://scratch.mit.edu/users/LeCodeurDesEnfers" email="aurelesixdenier@live.fr">
+        LeCodeurDesEnfers
     </author>
 
 </widget>
